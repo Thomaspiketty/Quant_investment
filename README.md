@@ -32,6 +32,7 @@ PS ratio = Stock price / Total Sale
 
 
 2. Long term strategies(Trading only per year or 2 years or 4years)
+
      2-1. PE Ratio
        I get the rank of PE Ratio, and buy the 10 stocks from the lowest number.
 
