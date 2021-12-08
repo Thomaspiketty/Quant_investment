@@ -14,9 +14,13 @@ I parsed the list of S&P 500 companies in Wikipedia and saved data
 PE ratio, PB ratio, PC ratio, PS ratio
 
 EPS = Net Income / the number of shares issued
+
 PE(Price to Earning) ratio = Stock price / EPS
+
 PB(Price to Book value) ratio = Stock price / (Total Asset - Total Liability - Intangible Asset(optinal))
+
 PC(Price to Cash-Flow) ratio = Stock price / Cash-flow
+
 PS ratio = Stock price / Total Sale
 
 ## 3. Strategies 
@@ -28,22 +32,22 @@ PS ratio = Stock price / Total Sale
 
 
 2. Long term strategies(Trading only per year or 2 years or 4years)
-  1-1. PE Ratio
+  2-1. PE Ratio
     I get the rank of PE Ratio, and buy the 10 stocks from the lowest number.
 
-  1-2. PE Ratio + PB Ratio
+  2-2. PE Ratio + PB Ratio
     I get the rank of PE Ratio and PB ratio, add them up, and buy the 10 stocks from the lowest number.
     
-  1-3. PER + PBR + PCR
+  2-3. PER + PBR + PCR
     I get the rank of each ratios, add them up, and buy the 10 stocks from the lowest number.
     
 3. Automation strategies
 
-  2-1. PE Ratio + PB Ratio
+  3-1. PE Ratio + PB Ratio
     I get the rank of PE Ratio and PB ratio, add them up, and buy the 10 stocks from the lowest number.
     After that, when a certain rate of return or a certain loss rate occurs, the stock is sold and the index is re-ranked to invest steadily in 10 stocks.
 
-  2-2. PE Ratio + PB Ratio + PC Ratio
+  3-2. PE Ratio + PB Ratio + PC Ratio
     I get the rank of each ratios, add them up, and buy the 10 stocks from the lowest number.
     After that, when a certain rate of return or a certain loss rate occurs, the stock is sold and the index is re-ranked to invest steadily in 10 stocks.
     
