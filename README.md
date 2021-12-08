@@ -32,24 +32,24 @@ PS ratio = Stock price / Total Sale
 
 
 2. Long term strategies(Trading only per year or 2 years or 4years)
-  2-1. PE Ratio
-    I get the rank of PE Ratio, and buy the 10 stocks from the lowest number.
+     2-1. PE Ratio
+       I get the rank of PE Ratio, and buy the 10 stocks from the lowest number.
 
-  2-2. PE Ratio + PB Ratio
-    I get the rank of PE Ratio and PB ratio, add them up, and buy the 10 stocks from the lowest number.
+     2-2. PE Ratio + PB Ratio
+       I get the rank of PE Ratio and PB ratio, add them up, and buy the 10 stocks from the lowest number.
     
-  2-3. PER + PBR + PCR
-    I get the rank of each ratios, add them up, and buy the 10 stocks from the lowest number.
+     2-3. PER + PBR + PCR
+       I get the rank of each ratios, add them up, and buy the 10 stocks from the lowest number.
     
 3. Automation strategies
 
-  3-1. PE Ratio + PB Ratio
-    I get the rank of PE Ratio and PB ratio, add them up, and buy the 10 stocks from the lowest number.
-    After that, when a certain rate of return or a certain loss rate occurs, the stock is sold and the index is re-ranked to invest steadily in 10 stocks.
+     3-1. PE Ratio + PB Ratio
+       I get the rank of PE Ratio and PB ratio, add them up, and buy the 10 stocks from the lowest number.
+       After that, when a certain rate of return or a certain loss rate occurs, the stock is sold and the index is re-ranked to invest steadily in 10 stocks.
 
-  3-2. PE Ratio + PB Ratio + PC Ratio
-    I get the rank of each ratios, add them up, and buy the 10 stocks from the lowest number.
-    After that, when a certain rate of return or a certain loss rate occurs, the stock is sold and the index is re-ranked to invest steadily in 10 stocks.
+     3-2. PE Ratio + PB Ratio + PC Ratio
+       I get the rank of each ratios, add them up, and buy the 10 stocks from the lowest number.
+       After that, when a certain rate of return or a certain loss rate occurs, the stock is sold and the index is re-ranked to invest steadily in 10 stocks.
     
 ## 4. Conclusion
 My Skill to apply time series forecasting to the stock market is not enough.
